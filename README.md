@@ -1,1 +1,1 @@
-# csc412
+# Assignments
